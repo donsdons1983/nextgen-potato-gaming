@@ -1,7 +1,7 @@
 # [Potato Gaming] AAA Titles on a under $200 Office Laptop
 
 A technical guide to making "unplayable" hardware playable.<br>
-This project leverages `gamescope` and `gamemode` to push low-end refurbished laptops to their absolute limits.<br><br>
+This project leverages `gamescope` and `gamemode` to push low-end refurbished laptops to their absolute limits.<br>
 
 ## Overview
 This setup is optimized for sub-$200 refurbished office laptops—specifically those powered by Ryzen CPUs with integrated APUs. 
