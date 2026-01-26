@@ -43,15 +43,18 @@ Arch-based distributions are the most straightforward for this setup.
 ```bash
 # Gamescope (Required for Flatpak Steam)
 flatpak install flathub org.freedesktop.Platform.VulkanLayer.gamescope
+```
+then,
+```bash
 # if you use arch based system
 yay -S gamemode
 ```
-
+or
 ```bash
 # if you use ubuntu/debian based system
 sudo apt install gamemode
 ```
-
+or
 ```bash
 # if you use fedora based system
 sudo dnf install gamemode
