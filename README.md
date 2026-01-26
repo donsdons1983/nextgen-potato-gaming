@@ -59,7 +59,7 @@ remove gamemoderun from the string or the game will fail to launch.
 
 ---
 
-### Technical Deep Dive: The Commands
+# Technical Deep Dive: The Commands
 ## Parameter,Function
 **dxgi.maxDeviceMemory=4096**,"Lies" to the game, capping **VRAM at 4GB.**<br>
 This forces engines to be smarter with texture streaming, preventing crashes on shared-memory APUs."<br>
