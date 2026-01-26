@@ -27,10 +27,9 @@ By rendering natively at 540p and upscaling to 1080p via FSR, we achieve a level
 * **CPU/GPU:** Ryzen APU (Integrated Graphics)
 * **Storage:** Upgraded to 1TB (Recommended for AAA libraries)
 * **OS:** Linux (**CachyOS** highly recommended for performance)
-
-![neofetch](画像のURL)
-![laptop photo](画像のURL)
-<img src="https://for-github-resource.pages.dev/laptop.webp" width="300" alt="laptop">
+<br>
+<img src="https://for-github-resource.pages.dev/neofetch.webp" width="500" alt="neofetch"><br>
+<img src="https://for-github-resource.pages.dev/laptop.webp" width="500" alt="laptop"><br>
 ---
 
 ## Installation & Setup
@@ -74,3 +73,5 @@ No claims, No returns
 MIT LICENSE / © YomiPlush
 
 Happy gaming on your potato!
+
+<img src="d4cat.webp" width="500" alt="Diablo IV memes"><br>
