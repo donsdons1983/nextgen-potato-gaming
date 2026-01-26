@@ -75,6 +75,6 @@ License & Disclaimer<br>
 No claims, No returns<br>
 MIT LICENSE / © YomiPlush<br>
 <br>
-Happy gaming on your potato!<br>
+# Happy gaming on your potato!<br>
 <br>
 <img src="https://for-github-resource.pages.dev/d4.gif" width="500" alt="Diablo IV memes"><br>
