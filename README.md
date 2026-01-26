@@ -54,7 +54,7 @@ sudo apt install gamemode
 
 ```bash
 # if you use fedora based system
-sudo dnf gamemode
+sudo dnf install gamemode
 ```
 
 ### 3. Steam Launch Options
