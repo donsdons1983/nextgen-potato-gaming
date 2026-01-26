@@ -1,4 +1,4 @@
-# [Potato Gaming] AAA Titles on a $200 Office Laptop
+# [Potato Gaming] AAA Titles on a under $200 Office Laptop
 
 A technical guide to making "unplayable" hardware playable.
 This project leverages `gamescope` and `gamemode` to push low-end refurbished laptops to their absolute limits.
