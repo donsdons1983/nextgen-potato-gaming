@@ -47,6 +47,16 @@ flatpak install flathub org.freedesktop.Platform.VulkanLayer.gamescope
 yay -S gamemode
 ```
 
+```bash
+# if you use ubuntu/debian based system
+sudo apt install gamemode
+```
+
+```bash
+# if you use fedora based system
+sudo dnf gamemode
+```
+
 ### 3. Steam Launch Options
 Copy and paste the following into your game's Launch Options:
 
