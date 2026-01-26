@@ -1,13 +1,13 @@
 # [Potato Gaming] AAA Titles on a under $200 Office Laptop
 
-A technical guide to making "unplayable" hardware playable.
-This project leverages `gamescope` and `gamemode` to push low-end refurbished laptops to their absolute limits.
+A technical guide to making "unplayable" hardware playable.<br>
+This project leverages `gamescope` and `gamemode` to push low-end refurbished laptops to their absolute limits.<br><br>
 
 ## Overview
 This setup is optimized for sub-$200 refurbished office laptops—specifically those powered by Ryzen CPUs with integrated APUs. 
 
 ### The Core Logic
-We offload the upscaling process from the game engine to the Linux compositor level using **Gamescope**. 
+We offload the upscaling process from the game engine to the Linux compositor level using **Gamescope**. <br>
 By rendering natively at 540p and upscaling to 1080p via FSR, we achieve a level of frame stability and smoothness that is simply unattainable on Windows.
 
 ---
