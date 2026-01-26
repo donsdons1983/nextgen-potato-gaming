@@ -80,5 +80,5 @@ MIT LICENSE / © YomiPlush<br>
 <img src="https://for-github-resource.pages.dev/d4.gif" width="500" alt="Diablo IV memes"><br>
 
 ---
-* if you want more "trackpad stuff"...this is the way, check this my odysee account.<br>
+* if you want more "my trackpad gaming stuff"...this is the way, check this my odysee account.<br>
 [Trackpad Purgatory](https://odysee.com/@TrackpadPurgatory)
