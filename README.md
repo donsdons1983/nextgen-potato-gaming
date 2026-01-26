@@ -24,7 +24,7 @@ By rendering natively at 540p and upscaling to 1080p via FSR, we achieve a level
 
 ## Hardware Spec (The Potato)
 * **Device:** Generic Amazon Refurbished Office Laptop (under $200 )
-* **CPU/GPU:** Ryzen APU (Integrated Graphics)
+* **CPU/GPU:** Ryzen APU (Integrated Graphics, a.k.a no gpu potato stuff.)
 * **Storage:** Upgraded to 1TB (Recommended for AAA libraries)
 * **OS:** Linux (**CachyOS** highly recommended for performance)
 <br>
