@@ -20,7 +20,7 @@ By rendering natively at 540p and upscaling to 1080p via FSR, we achieve a level
   * * **Clips:** [© CAPCOM / Resident Evil 4](https://www.dailymotion.com/video/x9yiumi)
     * * **Clips:** [© KOJIMA PRODUCTION / Death Strandings Director's Cut](https://www.dailymotion.com/video/x9yiwwa)
       * * **Clips:** [© Blizzard entertainment / Diablo IV](https://www.dailymotion.com/video/x9yix0q)
-* **Handheld:** [Off-screen Footage (Direct Capture)](https://www.dailymotion.com/video/x9yisbs) 
+* **12 mini Video:** [Off-screen Footage (Direct Capture)](https://www.dailymotion.com/video/x9yisbs) 
   * *Filmed on a smartphone to prove no external GPUs or tricks were used.*
 
 ## Hardware Spec (The Potato)
