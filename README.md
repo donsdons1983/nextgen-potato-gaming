@@ -75,4 +75,4 @@ MIT LICENSE / © YomiPlush<br>
 <br>
 Happy gaming on your potato!<br>
 <br>
-<img src="d4cat.webp" width="500" alt="Diablo IV memes"><br>
+<img src="https://for-github-resource.pages.dev/d4.gif" width="500" alt="Diablo IV memes"><br>
