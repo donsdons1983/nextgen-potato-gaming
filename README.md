@@ -8,7 +8,7 @@ This project leverages `gamescope` and `gamemode` to push low-end refurbished la
 This setup is optimized for sub-$200 refurbished office laptops—specifically those powered by Ryzen CPUs with integrated APUs. 
 
 ### The Core Logic
-We offload the upscaling process from the game engine to the Linux compositor level using **Gamescope**. <br>
+I offload the upscaling process from the game engine to the Linux compositor level using **Gamescope**. <br>
 By rendering natively at 540p and upscaling to 1080p via FSR, we achieve a level of frame stability and smoothness that is simply unattainable on Windows.
 
 ---
